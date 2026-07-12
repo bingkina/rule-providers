@@ -1,0 +1,11 @@
+payload:
+  - SRC-IP-CIDR,192.168.50.100/32 # DS220+
+  - DOMAIN-KEYWORD,torrent
+  - DOMAIN-KEYWORD,prometheusnet # LM Studio 下载
+  - DOMAIN-KEYWORD,lmstudio # LM Studio 下载
+  - DOMAIN-KEYWORD,quickconnect # synology
+  - DOMAIN-KEYWORD,synology # synology
+  - DOMAIN-SUFFIX,akamai.com # synology
+  - DOMAIN-KEYWORD,dyndns # synology
+  - DOMAIN-SUFFIX,51allai.com
+  - IP-CIDR,47.90.133.111/32 # aliyun
