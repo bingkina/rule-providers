@@ -1,6 +1,10 @@
 payload:
   - SRC-IP-CIDR,192.168.50.100/32 # DS220+
   - DOMAIN-KEYWORD,torrent
+  - DOMAIN-KEYWORD,tracker
+  - DOMAIN-KEYWORD,xunlei
+  - DOMAIN-KEYWORD,thunder
+  - DOMAIN-KEYWORD,xlliveud
   - DOMAIN-KEYWORD,prometheusnet # LM Studio 下载
   - DOMAIN-KEYWORD,lmstudio # LM Studio 下载
   - DOMAIN-KEYWORD,quickconnect # synology
