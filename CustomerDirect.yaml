@@ -13,3 +13,6 @@ payload:
   - DOMAIN-KEYWORD,dyndns # synology
   - DOMAIN-SUFFIX,51allai.com
   - IP-CIDR,47.90.133.111/32 # aliyun
+  - PROCESS-NAME,cloudflared,DIRECT
+  - DOMAIN-SUFFIX,argotunnel.com,DIRECT
+  - DOMAIN,api.cloudflare.com,DIRECT
