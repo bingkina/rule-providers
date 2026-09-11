@@ -21,5 +21,5 @@ payload:
   - PROCESS-NAME,CloudflareWARP
   - DOMAIN-SUFFIX,cloudflareclient.com
   - DOMAIN-SUFFIX,cloudflare-gateway.com
-  - IP-CIDR,192.168.50.100/32,no-resolve # Synology NAS
-  - IP-CIDR,192.168.50.200/32,no-resolve # OpenWrt
+  - IP-CIDR,192.168.50.100/32 # Synology NAS
+  - IP-CIDR,192.168.50.200/32 # OpenWrt
