@@ -16,3 +16,10 @@ payload:
   - PROCESS-NAME,cloudflared
   - DOMAIN-SUFFIX,argotunnel.com
   - DOMAIN,api.cloudflare.com
+
+    # Cloudflare WARP 与内网服务直连
+  - PROCESS-NAME,CloudflareWARP
+  - DOMAIN-SUFFIX,cloudflareclient.com
+  - DOMAIN-SUFFIX,cloudflare-gateway.com
+  - IP-CIDR,192.168.50.100/32,no-resolve # Synology NAS
+  - IP-CIDR,192.168.50.200/32,no-resolve # OpenWrt
