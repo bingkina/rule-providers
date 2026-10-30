@@ -1,15 +1,15 @@
 payload:
-  - SRC-IP-CIDR,192.168.50.100/32 # DS220+
+  - SRC-IP-CIDR,192.168.50.100/32
   - DOMAIN-KEYWORD,torrent
   - DOMAIN-KEYWORD,tracker
   - DOMAIN-KEYWORD,xunlei
   - DOMAIN-KEYWORD,thunder
   - DOMAIN-KEYWORD,xlliveud
-  - DOMAIN-KEYWORD,prometheusnet # LM Studio 下载
-  - DOMAIN-KEYWORD,lmstudio # LM Studio 下载
-  - DOMAIN-KEYWORD,quickconnect # synology
-  - DOMAIN-KEYWORD,synology # synology
-  - DOMAIN-SUFFIX,akamai.com # synology
-  - DOMAIN-KEYWORD,dyndns # synology
+  - DOMAIN-KEYWORD,prometheusnet
+  - DOMAIN-KEYWORD,lmstudio
+  - DOMAIN-KEYWORD,quickconnect
+  - DOMAIN-KEYWORD,synology
+  - DOMAIN-SUFFIX,akamai.com
+  - DOMAIN-KEYWORD,dyndns
   - DOMAIN-SUFFIX,51allai.com
-  - IP-CIDR,47.90.133.111/32 # aliyun
+  - IP-CIDR,47.90.133.111/32
